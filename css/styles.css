@@ -1,0 +1,153 @@
+#title{
+
+  background-color: #ff4c68;
+  color: white;
+}
+
+h1{
+font-family: 'Montserrat', sans-serif;
+  font-size: 3.4rem;
+  line-height: 1.5;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Ubuntu";
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+  padding: 0 10px;
+}
+.title-img{
+  width: 20%;
+  transform: rotate(25deg);
+margin-left: 50px;
+position: absolute;
+}
+.features-icon{
+font-size: 3rem;
+color: #ef8172;
+margin-bottom: 1rem;
+
+
+}
+.features-icon:hover{
+  color: pink;
+}
+.feah3{
+  margin-left: auto;
+  font-size: 1.6rem;
+  font-weight:900;
+
+}
+#features{
+  padding: 7% 15%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+.features-col{
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 5%;
+
+}
+p{
+  color: #8f8f8f;
+}
+/* Testimonials */
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+h2{
+  font-size: 3rem;
+  line-height:1.5;
+  font-weight:bolder;
+  font-family: "Ubuntu";
+
+}
+.testimg{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ef8172;
+  padding-bottom: 3%;
+  text-align: center;
+}
+.pressimg{
+width: 12%;
+margin: 0 20px;
+}
+#pricing{
+  padding: 80px 100px;
+  text-align: center;
+}
+.pricingcol{
+  padding: 3% 2%;
+}
+
+@media (max-width: 990px){
+  .title-img{
+    width: 60%;
+    position: static;
+    transform: rotate(0);
+    margin: auto;
+  }
+
+  #title{
+    text-align:center;
+  }
+}
+
+
+#cta{
+  background-color: #ff4c68;
+  padding: 7% 15%;
+  text-align: center;
+  font-family: "Ubuntu";
+  font-weight: bolder;
+  color: white;
+
+}
+.ctah3{
+  font-size: 3rem;
+  padding: 0 15%;
+  line-height: 1.5;
+}
+
+#footer{
+  padding: 6%;
+  text-align: center;
+}
+.pfooter{
+  text-align: center;
+}
+.footericon{
+  padding: 10px;
+
+}

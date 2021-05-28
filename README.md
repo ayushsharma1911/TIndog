@@ -1,2 +1,1 @@
-# TIndog
-A tinder for dog , only HTML CSS  using framework of bootstrap
+TinDog Starting Files
